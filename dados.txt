@@ -1,11 +1,16 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Alexandre Soares de Oliveira
+-Profissão: Analista de Testes JR
+-Cidade: Osasco - SP
+-O que faz nas horas vaga: Sou praticante de corrida de rua e pista, atualmente meu foco principal são as provas 
+de 5km (ou 5000m pista) com foco na performance. 
+
+-Feedback sobre o curso Qualidade de Software: Tem me ajudado a alavancar minha carreira, pois tudo que vejo em aula
+consigo colocar em pratica em meu trabalho
+
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma intuitiva, facil de usar, mas que em algumas aulas após serem
+assistidas, não são marcadas com a opção de finalizada (Play Verde)
 
 Obrigado!!!
 
